@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Niklas
+![Stats](https://github-readme-stats.vercel.app/api?username=obrhubr&show_icons=true&theme=solarized-dark)
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=obrhubr&show_icons=true&theme=solarized-dark)
 
-<!--
-**obrhubr/obrhubr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code mainly in Python, Javascript, C++ and Haskell. But I love to try out new things and I am able to code HELLO WORLD in a lot of languages!
 
-Here are some ideas to get you started:
+### ***Languages I code with :***
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HASKELL](https://img.shields.io/badge/Haskell-1a1b1c?style=for-the-badge&logo=Haskell&logoColor=violet)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My favorite projects:
+- Fully working multiplayer chess site ([lichess.org](lichess.org) clone) using NodeJS and MongoDB : [Chess-website](https://github.com/obrhubr/chess-website)
+- A collection of generative art made with P5JS : [Art-website](https://github.com/obrhubr/Art-website)
+- A python implementation of SHIFTAGO, a board game, for which I created an AI using Deepminds ALPHA-ZERO : [AlphaShiftago](https://github.com/obrhubr/AlphaShiftago)
+- A fully functional C++ implementation of Newtonian Gravity, made to be as accurate and fast as possible : [Grav_sim_cpp](https://github.com/obrhubr/Grav_sim_cpp)
