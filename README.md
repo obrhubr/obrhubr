@@ -7,9 +7,14 @@ I code mainly in Python, Javascript, C++ and Haskell. But I love to try out new 
 ### ***Languages I code with :***
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HASKELL](https://img.shields.io/badge/Haskell-1a1b1c?style=for-the-badge&logo=Haskell&logoColor=violet)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### ***Languages I am learning :***
+![HASKELL](https://img.shields.io/badge/Haskell-1a1b1c?style=for-the-badge&logo=Haskell&logoColor=violet)
+![REACTJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NEXTJS](https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+![TAILWINDCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### My favorite projects:
 - A dummy, but functional, heroku deployed, Github Actions CI tested(using jest), NodeJS server (read more at [**GITHUB-SKILLS**](#Github-skills) : [pronote-data-api](https://github.com/obrhubr/pronote-data-api)
