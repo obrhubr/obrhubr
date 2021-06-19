@@ -21,7 +21,7 @@ I code mainly in Python, Javascript, C++ and Haskell. But I love to try out new 
 - Fully working multiplayer chess site ([lichess.org](https://lichess.org) clone) using NodeJS and MongoDB : [Chess-website](https://github.com/obrhubr/chess-website)
 - A collection of generative art made with P5JS : [Art-website](https://github.com/obrhubr/Art-website)
 - A python implementation of SHIFTAGO, a board game, for which I created an AI using Deepminds ALPHA-ZERO : [AlphaShiftago](https://github.com/obrhubr/AlphaShiftago)
-- A fully functional C++ implementation of Newtonian Gravity, made to be as accurate and fast as possible : [Grav_sim_cpp](https://github.com/obrhubr/Grav_sim_cpp)
+- A fully functional C++ implementation of Newtonian Gravity, made to be as accurate and fast as possible : [Grav_sim_cpp](https://github.com/obrhubr/grav-sim-cpp)
 
 ## Github skills
 I created this repo to teach myself Github Actions, CI/CD, etc...
