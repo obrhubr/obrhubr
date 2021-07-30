@@ -2,7 +2,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=obrhubr&show_icons=true&theme=solarized-dark)
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=obrhubr&show_icons=true&theme=solarized-dark)
 
-I code mainly in Python, Javascript, C++ and Haskell. But I love to try out new things and I am able to code HELLO WORLD in a lot of languages!
+I code mainly in Python, Javascript, C++ and Haskell, but I like to experiment with many languages.
 
 ### ***Languages I code with :***
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,4 +25,4 @@ I code mainly in Python, Javascript, C++ and Haskell. But I love to try out new 
 
 ## Github skills
 I created this repo to teach myself Github Actions, CI/CD, etc...
-It features nice commit messages, coded after the [gitmoji.dev](https://gitmoji.dev/) standard, two branches(dev, master), automatically running tests with each pull request to master, deployment to heroku, a wiki and a nice README.md.
+It features nice commit messages, coded using the [gitmoji.dev](https://gitmoji.dev/) standard, two branches(dev, master), automatically running tests with each pull request to master, deployment to heroku, a wiki and a nice README.md.
