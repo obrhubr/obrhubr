@@ -4,7 +4,7 @@
 
 I code mainly in Python, Javascript, C++ and Haskell, but I like to experiment with many languages.
 
-### ***Languages & Technologies:***
+### ***Languages & Technologies I am using/learning:***
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -12,7 +12,9 @@ I code mainly in Python, Javascript, C++ and Haskell, but I like to experiment w
 ![HASKELL](https://img.shields.io/badge/Haskell-1a1b1c?style=for-the-badge&logo=Haskell&logoColor=violet)
 ![REACTJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NEXTJS](https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
-![TAILWINDCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![RUST](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange)
+![GOLANG](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 
 ### My favorite projects:
 - Fullstack project(NextJS, NodeJS, C++) The site makes saving, organising and searching `.epub` books easy : [pronote-data-api](https://github.com/obrhubr/pronote-data-api)
